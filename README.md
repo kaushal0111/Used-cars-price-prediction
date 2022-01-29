@@ -3,6 +3,7 @@
 
 - This is a complete machine learning project that includes all processes of a typical machine learning life cycle from creating the project environment on your local computer to deploying the final app.py file on the cloud server.
 - Get the dataset from [here.](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
+- Live Demo is available [here.](https://usedcarsellingrateprediction.herokuapp.com/)
 
 ### Steps to follow before creating this notebook:
 1. Create a virtual environment for your project on your local computer using "conda create --name myenv" or follow [This Link](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) for more details on creating s virtual environment using conda command prompt or follow [this link.](https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1) for more details on python package dependencies.
